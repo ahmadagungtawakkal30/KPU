@@ -1,6 +1,6 @@
 # KPU
 ### Buka terminal kemudian jalangkan aplikasi django pada web browser yang digunakan
-### Buat teman - teman bagian frontend silahkan lakukan progres yak
+### Buat teman - teman silahkan lakukan progres yak
 
 # TUGAS
 ## 1.Frontend
