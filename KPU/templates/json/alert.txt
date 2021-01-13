@@ -1,0 +1,11 @@
+berikut data yang tidak memiliki email dan nohandphone
+1. sesudah npm 6204166
+    {
+        "NPM": "6204169",
+        "Nama_Mahasiswa": " Rizki Aulia ",
+        "Tingkat": "1.00",
+        "Kelas": " A ",
+        "NamaProdi": " D4 Logistik Bisnis ",
+        "Email": "",
+        "Handphone": "0"
+    },
